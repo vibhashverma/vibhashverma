@@ -3,14 +3,14 @@
   
   # Hey, I'm Vibhash Verma 👋
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=600&lines=AI+Engineer;RAG+%26+LLM+Systems+Builder;Python+%7C+FastAPI+%7C+LangChain;Turning+Data+Into+Intelligent+Apps" alt="Typing Animation" />
   
   <p>
-    <em>Crafting elegant solutions to complex problems | Building scalable web applications</em>
+    <em>Building end-to-end AI applications with Python, NLP, and Generative AI</em>
   </p>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=vibhashvermaAct&color=0E7490&style=flat-square)
-  ![GitHub followers](https://img.shields.io/github/followers/vibhashvermaAct?style=flat-square&color=0E7490)
+  ![Profile Views](https://komarev.com/ghpvc/?username=vibhashverma&color=0E7490&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/vibhashverma?style=flat-square&color=0E7490)
   
 </div>
 
@@ -18,48 +18,54 @@
 
 ## 🎯 About Me
 
-I'm a passionate full-stack developer with a knack for building scalable, user-friendly applications. I love turning complex problems into simple, intuitive solutions. When I'm not coding, I'm exploring new technologies, contributing to open source, or writing about web development.
+I'm an aspiring AI/ML Engineer with a strong foundation in Python, Machine Learning, NLP, and Generative AI. I enjoy building end-to-end AI applications — from data pipelines to deployable apps — using tools like Scikit-learn, FastAPI, Streamlit, Docker, and SQL. Currently interning as an AI Engineer at **Infosys Springboard**, working on resume parsing, candidate-job matching, and recruiter-facing dashboards.
 
-- 💼 Currently working on **impactful projects**
-- 🌱 Always learning **new technologies**
-- 🚀 Passionate about **clean code** and **best practices**
-- 💬 Open to **collaborations** and **networking**
+- 💼 Currently an **AI Engineer Intern @ Infosys Springboard**
+- 🌱 Deep-diving into **RAG systems, LangChain, and LLM applications**
+- 🚀 Passionate about **solving real-world problems through AI**
+- 🎓 B.Tech in Computer Science, Patel College of Science and Technology, Bhopal
+- 📍 Based in Bhopal, Madhya Pradesh
 
 ---
 
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>Languages & Frameworks</b></summary>
+<summary><b>Languages</b></summary>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>Frontend Tools</b></summary>
+<summary><b>AI & LLM Engineering</b></summary>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square&logo=groq&logoColor=white)
 
 </details>
 
 <details open>
 <summary><b>Backend & Database</b></summary>
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Data Handling & Analysis</b></summary>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
 </details>
 
@@ -69,81 +75,62 @@ I'm a passionate full-stack developer with a knack for building scalable, user-f
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </details>
 
 ---
 
+## 💼 Experience
+
+### AI Engineer Intern — Infosys Springboard *(Virtual, July 2026 – Present)*
+
+- Built an end-to-end **resume parsing pipeline** using PyMuPDF and python-docx, leveraging the **Google Gemini API** to convert unstructured resume text into structured JSON candidate profiles.
+- Designed a normalized **PostgreSQL** schema and implemented CRUD operations with psycopg2, including array-typed skill columns for efficient querying.
+- Developed a **FastAPI** microservice exposing REST endpoints for job posting management, decoupling recruiter workflows from the Streamlit frontend.
+- Engineered a **candidate-to-job matching engine** computing a weighted hiring score across skills, experience, education, and certifications, plus skill-gap analysis reports.
+- Built an interactive multi-page **Streamlit** dashboard with Plotly visualizations for real-time recruiter insights.
+
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/vibhashverma/AI-Recruitment-Talent-Management)
+
+---
+
 ## ⭐ Featured Projects
 
-### 🚀 Project Alpha
-**Full-stack SaaS Application**
+### 🏛️ Indian Constitution Chatbot
+**RAG Chatbot | Python, LangChain, FAISS, HuggingFace, Google Gemini API**
 
-Building a modern SaaS platform with real-time collaboration features. Optimized for performance and scalability.
+A retrieval-augmented generation chatbot that answers natural-language questions about the Constitution of India, grounding every response in source text to prevent hallucination.
 
-- **Tech Stack:** Next.js, TypeScript, PostgreSQL, Tailwind CSS
-- **Features:** Real-time updates, Authentication, Analytics dashboard
-- **Status:** In Development
+- Custom PDF-parsing pipeline using regex heuristics to detect Article boundaries (instead of naive fixed-size chunking)
+- Dense embeddings via `all-MiniLM-L6-v2`, indexed in **FAISS** for fast semantic retrieval
+- LangChain pipeline feeding top-5 relevant chunks to **Gemini 2.5 Flash**, with answers constrained to cited Article/Part numbers
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/vibhashvermaAct/project-alpha)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=globe)](https://project-alpha-demo.com)
-
----
-
-### 💼 Project Beta
-**E-commerce Platform**
-
-A fully responsive e-commerce solution with payment integration and inventory management.
-
-- **Tech Stack:** React, Node.js, MongoDB, Stripe API
-- **Features:** Product catalog, Cart system, Order tracking, Admin panel
-- **Metrics:** 50K+ monthly users | 4.8★ rating
-
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/vibhashvermaAct/project-beta)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=globe)](https://project-beta-demo.com)
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/vibhashvermaAct)
 
 ---
 
-### 🎨 Project Gamma
-**Design System & Component Library**
+### ⚡ Groq AI Chatbot with Memory
+**Python, Flask, Groq API, Llama 3.3 70B**
 
-An open-source component library with comprehensive documentation and Storybook integration.
+A real-time streaming chatbot on Meta's Llama 3.3 70B, served via Groq's LPU inference hardware at 500+ tokens/sec.
 
-- **Tech Stack:** React, TypeScript, Storybook, CSS Modules
-- **Features:** 50+ reusable components, Dark mode support, Accessibility compliant
-- **Community:** 2K+ ⭐ stars | Active contributors
+- Token-by-token streaming via **Server-Sent Events (SSE)** using Flask's `stream_with_context`
+- Per-session conversational memory persisting full message history for personalized, context-aware responses
+- Live speed-meter UI tracking real-time tokens/sec alongside a memory-turn counter and reset control
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/vibhashvermaAct/project-gamma)
-[![NPM Package](https://img.shields.io/badge/NPM%20Package-CB3837?style=flat-square&logo=npm)](https://npmjs.com/package/project-gamma)
-
----
-
-### 🔧 Project Delta
-**API Development & Microservices**
-
-RESTful API with microservices architecture, comprehensive documentation, and automated testing.
-
-- **Tech Stack:** Node.js, Express, PostgreSQL, Docker
-- **Features:** JWT Authentication, Rate limiting, API versioning, CI/CD
-- **Performance:** 99.9% uptime | <100ms avg response time
-
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/vibhashvermaAct/project-delta)
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/vibhashverma/groq-chatbot)
 
 ---
 
-### 📱 Project Echo
-**Mobile-First Web App**
+## 🎓 Education
 
-Progressive Web App with offline support and push notifications.
-
-- **Tech Stack:** React, PWA, Service Workers, Firebase
-- **Features:** Offline-first, Real-time sync, Push notifications
-- **Metrics:** 100 Lighthouse score | 0.8s FCP
-
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/vibhashvermaAct/project-echo)
+**Patel College of Science and Technology** — Bhopal, Madhya Pradesh
+Bachelor of Technology in Computer Science *(June 2021 – June 2025)*
 
 ---
 
@@ -151,11 +138,11 @@ Progressive Web App with offline support and push notifications.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhashvermaAct&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E6E6E6&icon_color=58A6FF&title_color=58A6FF)
+![GitHub Stats](https://github-readme-stats-eight-lemon.vercel.app/api?username=vibhashverma&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vibhashvermaAct&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vibhashverma&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhashvermaAct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E6E6E6&title_color=58A6FF)
+![Top Languages](https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=vibhashverma&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -163,10 +150,10 @@ Progressive Web App with offline support and push notifications.
 
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning & AI Integration
-- 🔐 Advanced Security Practices
-- 📊 System Design & Architecture
-- 🎯 Product Management Fundamentals
+- 🤖 Advanced RAG architectures & agentic AI systems
+- 🔐 CI/CD pipelines for ML deployment
+- ☁️ Cloud platforms (AWS, Azure)
+- 📊 System design for AI-driven applications
 
 ---
 
@@ -174,36 +161,19 @@ Progressive Web App with offline support and push notifications.
 
 <div align="center">
 
-**Reach out to me for opportunities, collaborations, or just a friendly tech chat!**
+**Reach out for opportunities, collaborations, or a chat about AI!**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhashverma)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vibhashverma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=globe&logoColor=white)](https://vibhashverma.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/vibhashverma)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vibhashverma5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhash-verma-6b8a842a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibhashverma)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vibhashvermaAct&theme=tokyo-night&hide_border=true&bg_color=0D1117)
-
----
-
 <div align="center">
 
-### ✨ Fun Facts
-
-- 🎮 Gaming enthusiast
-- ☕ Coffee-driven development
-- 📚 Tech blogger & knowledge sharer
-- 🌍 Always exploring new frameworks
-
-<br>
-
-**⭐ If you find my work interesting, please consider starring my repositories!**
+**⭐ If you find my work interesting, feel free to check out my repositories!**
 
 <br>
 
