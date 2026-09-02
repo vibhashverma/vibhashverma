@@ -87,7 +87,7 @@ I'm an aspiring AI/ML Engineer with a strong foundation in Python, Machine Learn
 
 ## 💼 Experience
 
-### AI Engineer Intern — Infosys Springboard *(Virtual, July 2026 – Present)*
+### AI Engineer Intern — Infosys Springboard *(Virtual, June 2026 – Present)*
 
 - Built an end-to-end **resume parsing pipeline** using PyMuPDF and python-docx, leveraging the **Google Gemini API** to convert unstructured resume text into structured JSON candidate profiles.
 - Designed a normalized **PostgreSQL** schema and implemented CRUD operations with psycopg2, including array-typed skill columns for efficient querying.
